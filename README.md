@@ -6,6 +6,8 @@ Data analytics portfolio
 * Decomposed time series
 * Forecasted airline passengers for the next 4 years 
 
+![](https://github.com/shanenemeth/Shane_Portfolio-/blob/main/images/autoregrssion.png)
+
 
 # [Project 2: Multiple Linear Regression using Best Subset Selection](https://github.com/shanenemeth/Regfit)
 * Analyzed dataset of MLB players with  observations of 20 variables to try and predict player Salary
