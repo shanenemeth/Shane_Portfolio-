@@ -1,4 +1,4 @@
-# Shane_Portfolio-
+# Shane_Portfolio
 Data analytics portfolio 
 
 # [Project 1: Autoregression Forecast Model in RStudio](https://github.com/shanenemeth/Autoregression)
@@ -6,7 +6,7 @@ Data analytics portfolio
 * Decomposed time series
 * Forecasted airline passengers for the next 4 years 
 
-![](https://github.com/shanenemeth/Shane_Portfolio-/blob/main/images/autoregrssion.png)
+![autoregression](https://github.com/shanenemeth/Shane_Portfolio-/blob/main/images/autoregrssion.png)
 
 
 # [Project 2: Multiple Linear Regression using Best Subset Selection](https://github.com/shanenemeth/Regfit)
