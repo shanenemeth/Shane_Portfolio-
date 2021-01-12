@@ -22,5 +22,5 @@ Data analytics portfolio
 * Created a plot of the performance using true positive rate and false positive rate as the axes to determine best threshold for the model and reduce the false positive rate 
 * Accuracy of the model was .76
 
- ![]https://github.com/shanenemeth/Logistic-Regression-/blob/main/Logistic.png
+ ![Performance Plot](https://github.com/shanenemeth/Logistic-Regression-/blob/main/Logistic.png)
  
