@@ -6,7 +6,7 @@ Data analytics portfolio
 * Decomposed time series
 * Forecasted airline passengers for the next 4 years 
 
-![autoregression](https://github.com/shanenemeth/Shane_Portfolio-/blob/main/images/autoregrssion.png)
+![autoregression](https://github.com/shanenemeth/Shane_Portfolio-/blob/main/images/autoregrssion.PNG)
 
 
 # [Project 2: Multiple Linear Regression using Best Subset Selection](https://github.com/shanenemeth/Regfit)
@@ -23,7 +23,7 @@ Data analytics portfolio
 * Accuracy of the model was .76
 
 Best Threshold Selection Plot
- ![Performance Plot](https://github.com/shanenemeth/Logistic-Regression-/blob/main/Logistic.png)
+ ![Performance Plot](https://github.com/shanenemeth/Logistic-Regression-/blob/main/Logistic.PNG)
  
  
  
