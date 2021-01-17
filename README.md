@@ -36,7 +36,7 @@ Best Threshold Selection Plot
 
 ![](images/box%20plot.png)
 
-![](density%20plot.png)
+![](images/density%20plot.png)
  
  
  
