@@ -1,5 +1,5 @@
-# Shane_Portfolio
-Data analytics portfolio 
+# Shane Nemeth Portfolio
+Data Science Portfolio 
 
 # [Project 1: Autoregression Forecast Model](https://github.com/shanenemeth/Autoregression)
 * Analyzed time series data of airline passangers between 1949-1960
