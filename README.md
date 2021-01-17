@@ -6,7 +6,7 @@ Data analytics portfolio
 * Decomposed time series
 * Forecasted airline passengers for the next 4 years 
 
-![Github Logo](https://github.com/shanenemeth/Shane_Portfolio-/blob/main/images/autoregrssion.png)
+![](images/autoregrssion.png)
 
 
 # [Project 2: Multiple Linear Regression using Best Subset Selection](https://github.com/shanenemeth/Regfit)
@@ -23,7 +23,7 @@ Data analytics portfolio
 * Accuracy of the model was .76
 
 Best Threshold Selection Plot
- ![Github Logo](https://github.com/shanenemeth/Logistic-Regression-/blob/main/Logistic.png)
+ ![](images/Logistic.png)
  
  # [Project 4: Naive Bayes Classification]
  * Analyzed a college admissions dataset to predict the probability of whether a student was admitted to a school based off 3 independent variables - "GPA", "GRE", "RANK" and 1 response variable - "ADMIT"
@@ -36,7 +36,7 @@ Best Threshold Selection Plot
 
 ![](images/box%20plot.png)
 
-![](https://github.com/shanenemeth/Naive-Bayes-Classifier-/blob/main/density%20plot.png)
+![](density%20plot.png)
  
  
  
