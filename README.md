@@ -6,7 +6,7 @@ Data analytics portfolio
 * Decomposed time series
 * Forecasted airline passengers for the next 4 years 
 
-![autoregression](https://github.com/shanenemeth/Shane_Portfolio-/blob/main/images/autoregrssion.png)
+![Github Logo](https://github.com/shanenemeth/Shane_Portfolio-/blob/main/images/autoregrssion.png)
 
 
 # [Project 2: Multiple Linear Regression using Best Subset Selection](https://github.com/shanenemeth/Regfit)
@@ -23,7 +23,21 @@ Data analytics portfolio
 * Accuracy of the model was .76
 
 Best Threshold Selection Plot
- ![Performance Plot](https://github.com/shanenemeth/Logistic-Regression-/blob/main/Logistic.png)
+ ![Github Logo](https://github.com/shanenemeth/Logistic-Regression-/blob/main/Logistic.png)
+ 
+ # Naive Bayes Classification 
+ * Analyzed a college admissions dataset to predict the probability of whether a student was admitted to a school based off 3 independent variables - "GPA", "GRE", "RANK" and 1 response variable - "ADMIT"
+* Converted "RANK" and  "ADMIT" variables to factors 
+* Partitioned the data into testing and training subsets
+* Used ggplot2 to create density and box plots of the two continuous variables 
+* Utilized a Naive Bayes classification algorithm to predict probability of admission
+* Accuracy of the model was .72 and sensitivity was .90
+* [Packages used: "naivebayes", "dplyr", "caret", "ggplot2" and "e1071"]
+
+# Box Plot
+![Github Logo](https://github.com/shanenemeth/Naive-Bayes-Classifier-/blob/main/box%20plot.png)
+# Density Plot
+![Github Logo](https://github.com/shanenemeth/Naive-Bayes-Classifier-/blob/main/density%20plot.png)
  
  
  
