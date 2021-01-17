@@ -8,12 +8,18 @@ Data Science Portfolio
 
 ![](images/autoregrssion.png)
 
+ # [Project 2: Naive Bayes Classification](https://github.com/shanenemeth/Naive-Bayes-Classifier-)
+* Analyzed a college admissions dataset to predict the probability of whether a student was admitted to a school based off 3 independent variables - "GPA", "GRE", "RANK" and 1 response variable - "ADMIT"
+* Converted "RANK" and  "ADMIT" variables to factors 
+* Partitioned the data into testing and training subsets
+* Used ggplot2 to create density and box plots of the two continuous variables 
+* Utilized a Naive Bayes classification algorithm to predict probability of admission
+* Accuracy of the model was .72 and sensitivity was .90
+* [Packages used: "naivebayes", "dplyr", "caret", "ggplot2" and "e1071"]
 
-# [Project 2: Multiple Linear Regression using Best Subset Selection](https://github.com/shanenemeth/Regfit)
-* Analyzed dataset of MLB players with  observations of 20 variables to try and predict player Salary
-* Cleansed data, ommiting missing values for Salary variable
-* Used best subset selection regression technique to produce the best model for predicting player Salary 
-* Identified model 11 as the best fit for the data, using adjusted r squared as the criteria 
+![](images/box%20plot.png)
+
+![](images/density%20plot.png) 
 
 # [Project 3: Logit Regression to Predict Diabetes](https://github.com/shanenemeth/Logistic-Regression-)
 * Analyzed a diabetes dataset to create a model to predict whether and observation has diabetes using logit regression 
@@ -26,19 +32,14 @@ Data Science Portfolio
 Best Threshold Selection Plot
  ![](images/Logistic.png)
  
- 
- # [Project 4: Naive Bayes Classification](https://github.com/shanenemeth/Naive-Bayes-Classifier-)
- * Analyzed a college admissions dataset to predict the probability of whether a student was admitted to a school based off 3 independent variables - "GPA", "GRE", "RANK" and 1 response variable - "ADMIT"
-* Converted "RANK" and  "ADMIT" variables to factors 
-* Partitioned the data into testing and training subsets
-* Used ggplot2 to create density and box plots of the two continuous variables 
-* Utilized a Naive Bayes classification algorithm to predict probability of admission
-* Accuracy of the model was .72 and sensitivity was .90
-* [Packages used: "naivebayes", "dplyr", "caret", "ggplot2" and "e1071"]
+ # [Project 4: Multiple Linear Regression using Best Subset Selection](https://github.com/shanenemeth/Regfit)
+* Analyzed dataset of MLB players with  observations of 20 variables to try and predict player Salary
+* Cleansed data, ommiting missing values for Salary variable
+* Used best subset selection regression technique to produce the best model for predicting player Salary 
+* Plotted RSS and adjusted R2 for number of variables 
+* Used max function to determine which combination of variables produced highest adjusted R2
+* Identified model 11 as the best fit for the data, using adjusted R2 as the criteria 
 
-![](images/box%20plot.png)
-
-![](images/density%20plot.png)
- 
+ ![](images/regfit.png)
  
  
