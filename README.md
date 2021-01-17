@@ -25,7 +25,7 @@ Data analytics portfolio
 Best Threshold Selection Plot
  ![Github Logo](https://github.com/shanenemeth/Logistic-Regression-/blob/main/Logistic.png)
  
- # Naive Bayes Classification 
+ # [Project 4: Naive Bayes Classification]
  * Analyzed a college admissions dataset to predict the probability of whether a student was admitted to a school based off 3 independent variables - "GPA", "GRE", "RANK" and 1 response variable - "ADMIT"
 * Converted "RANK" and  "ADMIT" variables to factors 
 * Partitioned the data into testing and training subsets
