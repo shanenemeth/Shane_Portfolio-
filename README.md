@@ -34,9 +34,8 @@ Best Threshold Selection Plot
 * Accuracy of the model was .72 and sensitivity was .90
 * [Packages used: "naivebayes", "dplyr", "caret", "ggplot2" and "e1071"]
 
-# Box Plot
 ![Github Logo](https://github.com/shanenemeth/Naive-Bayes-Classifier-/blob/main/box%20plot.png)
-# Density Plot
+
 ![Github Logo](https://github.com/shanenemeth/Naive-Bayes-Classifier-/blob/main/density%20plot.png)
  
  
