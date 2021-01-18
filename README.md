@@ -1,14 +1,14 @@
 # Shane Nemeth Portfolio
 Data Science Portfolio 
 
-## [Project 1: Autoregression Forecast Model](https://github.com/shanenemeth/Autoregression)
+# [Project 1: Autoregression Forecast Model](https://github.com/shanenemeth/Autoregression)
 * Analyzed time series data of airline passangers between 1949-1960
 * Decomposed time series
 * Forecasted airline passengers for the next 4 years 
 
 ![](images/autoregrssion.png)
 
- ## [Project 2: Naive Bayes Classification](https://github.com/shanenemeth/Naive-Bayes-Classifier-)
+# [Project 2: Naive Bayes Classification](https://github.com/shanenemeth/Naive-Bayes-Classifier-)
 * Analyzed a college admissions dataset to predict the probability of whether a student was admitted to a school based off 3 independent variables - "GPA", "GRE", "RANK" and 1 response variable - "ADMIT"
 * Converted "RANK" and  "ADMIT" variables to factors 
 * Partitioned the data into testing and training subsets
@@ -21,7 +21,7 @@ Data Science Portfolio
 
 ![](images/density%20plot.png) 
 
-## [Project 3: Logit Regression to Predict Diabetes](https://github.com/shanenemeth/Logistic-Regression-)
+# [Project 3: Logit Regression to Predict Diabetes](https://github.com/shanenemeth/Logistic-Regression-)
 * Analyzed a diabetes dataset to create a model to predict whether and observation has diabetes using logit regression 
 * Split dataset into training and testing subsets 
 * Utilized ROCR package to determine best threshold and performance for the model
