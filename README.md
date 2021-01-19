@@ -8,7 +8,7 @@ Data Science Portfolio. Headers are hyperlinks to the actual projects github rep
 
 ![](images/autoregrssion.png)
 
-# [Project 2: Naive Bayes Classification](https://github.com/shanenemeth/Naive-Bayes-Classifier-)
+# [Project 2: Naive Bayes Classifier](https://github.com/shanenemeth/Naive-Bayes-Classifier-)
 * Analyzed a college admissions dataset to predict the probability of whether a student was admitted to a school based off 3 independent variables - "GPA", "GRE", "RANK" and 1 response variable - "ADMIT"
 * Converted "RANK" and  "ADMIT" variables to factors 
 * Partitioned the data into testing and training subsets
