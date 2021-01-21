@@ -22,7 +22,7 @@ Data Science Portfolio. Headers are hyperlinks to the actual projects github rep
 ![](images/density%20plot.png) 
 
 # [Project 3: Logit Regression to Predict Diabetes](https://github.com/shanenemeth/Logistic-Regression-)
-* Analyzed a diabetes dataset to create a model to predict whether and observation has diabetes using logit regression 
+* Analyzed a diabetes dataset with the goal of predicting a binary response variable - whether an observation has diabetes using logit regression 
 * Split dataset into training and testing subsets 
 * Utilized ROCR package to determine best threshold and performance for the model
 * Created a ROC plot to determine the best probability threshold for the model and reduce the false positive rate 
