@@ -1,5 +1,5 @@
 # Shane Nemeth Portfolio
-Business Data Analytics Portfolio. Headers are hyperlinks to the actual projects github repository which include the R code used. 
+Business Data Analytics Portfolio. Headers are hyperlinks to the actual project github repository which include the R code used. 
 
 # [Project 1: Autoregression Forecast Model](https://github.com/shanenemeth/Autoregression)
 * Analyzed time series data of airline passangers between 1949-1960
