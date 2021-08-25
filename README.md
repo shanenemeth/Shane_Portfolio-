@@ -8,9 +8,11 @@ Business Data Analytics Portfolio. Headers are hyperlinks to the actual project 
 * Used the K-Means function to create the clusters
 * Visualized the clusters using factoextra package 
 
-![Elbow Plot](https://github.com/shanenemeth/Shane_Portfolio-/blob/main/images/elbow%20plot.png)
+## Elbow Plot
+![](images/elbow%20plot.png)
 
-![Clusters](https://github.com/shanenemeth/Shane_Portfolio-/blob/main/images/K%20MEANS.png)
+## Clusters
+![](images/K%20MEANS.png)
 
 # [Project 2: Naive Bayes Classifier](https://github.com/shanenemeth/Naive-Bayes-Classifier-)
 * Analyzed a college admissions dataset to predict the probability of whether a student was admitted to a school based off 3 independent variables - "GPA", "GRE", "RANK" and 1 response variable - "ADMIT"
