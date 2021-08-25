@@ -1,12 +1,16 @@
 # Shane Nemeth Portfolio
 Business Data Analytics Portfolio. Headers are hyperlinks to the actual project github repository which include the R code used. 
 
-# [Project 1: Autoregression Forecast Model](https://github.com/shanenemeth/Autoregression)
-* Analyzed time series data of airline passangers between 1949-1960
-* Decomposed time series
-* Forecasted airline passengers for the next 4 years 
+# [Project 1: Cluster Analysis](https://github.com/shanenemeth/K--Means-Clustering-)
+* Analyzed an iris dataset to segment different flower types into distinct clusters based on their attributes 
+* Scaled the dataset in preperation for the algorithm
+* Utilized the "Elbow Method" to determine the optimal number of "K" or clusters for the model
+* Used the K-Means function to create the clusters
+* Visualized the clusters using factoextra package 
 
-![](images/autoregrssion.png)
+![Elbow Plot](https://github.com/shanenemeth/Shane_Portfolio-/blob/main/images/elbow%20plot.png)
+
+![Clusters](https://github.com/shanenemeth/Shane_Portfolio-/blob/main/images/K%20MEANS.png)
 
 # [Project 2: Naive Bayes Classifier](https://github.com/shanenemeth/Naive-Bayes-Classifier-)
 * Analyzed a college admissions dataset to predict the probability of whether a student was admitted to a school based off 3 independent variables - "GPA", "GRE", "RANK" and 1 response variable - "ADMIT"
