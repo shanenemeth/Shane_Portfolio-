@@ -1,5 +1,5 @@
 # Shane Nemeth Portfolio
-Business Data Analytics Portfolio. Headers are hyperlinks to the actual project github repository which include the R code used. 
+Data Science Portfolio. Headers are hyperlinks to the actual project github repository which include the R code used. 
 
 # [Project 1: Cluster Analysis](https://github.com/shanenemeth/K--Means-Clustering-)
 * Analyzed an iris dataset to segment different flower types into distinct clusters based on their attributes 
